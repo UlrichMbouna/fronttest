@@ -41,3 +41,12 @@ L’application permet de gérer les étudiants, les tuteurs, et d’effectuer u
 ```bash
 git clone https://github.com/votre-utilisateur/votre-projet.git
 cd votre-projet
+
+Installer le frontend :
+
+cd frontend/my-app
+npm install
+
+
+cd ../../backend
+npm install
